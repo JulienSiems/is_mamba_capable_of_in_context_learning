@@ -1,0 +1,5 @@
+wandb:
+    project: in-context-mamba
+    entity: tabpfn_interpretability
+    notes:
+    log_every_steps: 100
